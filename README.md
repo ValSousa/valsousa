@@ -22,7 +22,7 @@ para construir aplicações inteligentes, escaláveis e bem arquitetadas.
 
 ### 💻 Tecnologias
 
-Java • Spring Boot • PostgreSQL • Kafka • Docker • Kubernetes
+Java • Spring Boot • PostgreSQL  • Docker •
 Python • LangChain • Git • GitHub
   
   ##  
